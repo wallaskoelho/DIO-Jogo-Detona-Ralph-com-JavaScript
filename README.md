@@ -32,7 +32,7 @@ Para rodar o jogo localmente, siga as etapas abaixo:
 
 1. Baixe ou clone o repositório:
    ```bash
-   git clone <[URL_DO_REPOSITORIO](https://github.com/wallaskoelho/DIO-Jogo-Detona-Ralph-com-JavaScript)>
+   git clone <(https://github.com/wallaskoelho/DIO-Jogo-Detona-Ralph-com-JavaScript)>
    
 2. Abra o arquivo index.html no seu navegador para iniciar o jogo.
 
