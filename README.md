@@ -37,8 +37,8 @@ Para rodar o jogo localmente, siga as etapas abaixo:
 2. Abra o arquivo index.html no seu navegador para iniciar o jogo.
 
 
-##Licença
+## Licença
 
-Este projeto foi desenvolvido como parte do Bootcamp Ri Happy - Front-end do Zero da DIO e é de código aberto. Use conforme necessário, mas a atribuição ao desafio de projeto da DIO é recomendada.
+Este projeto foi desenvolvido como parte do Bootcamp Ri Happy - Front-end do Zero da DIO.me e é de código aberto. Use conforme necessário, mas a atribuição ao desafio de projeto da DIO.me é recomendada.
 
 
